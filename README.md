@@ -34,13 +34,9 @@ This **Nike Power BI Dashboard** provides an in-depth analysis of Nike's key per
 ├── Data/
 │   ├── nike_sales_data.csv
 │   ├── customer_data.xlsx
-│   └── product_inventory.csv
 ├── PowerBI/
 │   ├── Nike_Dashboard.pbix
 │   └── Reports/
-├── Scripts/
-│   ├── data_cleaning.ipynb
-│   └── data_analysis.py
 ├── README.md
 └── images/
     └── dashboard_screenshot.png
